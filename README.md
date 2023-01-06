@@ -1,1 +1,1 @@
-This is test repo
+This is testing repo
